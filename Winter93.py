@@ -1,5 +1,4 @@
 import numpy as np
-np.random.seed(1)
 
 
 def quantity_it(A_it,K_it):
